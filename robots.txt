@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mujeeb-lawal-portfoil.netlify.app/sitemap.xml
